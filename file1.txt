@@ -1,7 +1,0 @@
-hhh#include <iostream>
-int main() {
-	int a=5;
-	int b=10;
-	printf("Enter the number:")
-	return 0;
-}
